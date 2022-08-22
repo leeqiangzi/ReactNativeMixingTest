@@ -1,0 +1,6 @@
+module Pods_TempRn_TempRnUITests {
+  umbrella header "Pods-TempRn-TempRnUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_TempRn {
+  umbrella header "Pods-TempRn-umbrella.h"
+
+  export *
+  module * { export * }
+}
